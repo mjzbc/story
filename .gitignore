@@ -1,0 +1,4 @@
+#Comment - each line takes a file name
+.DS_Store
+secrets.txt
+# Can put wildcards, such as : *.txt // will ignore all txt extention files
